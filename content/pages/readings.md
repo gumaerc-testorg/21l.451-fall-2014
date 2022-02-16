@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 880ce463-534d-7eb8-d08f-0ce26c43d72e
 ---
@@ -17,7 +20,7 @@ Foucault, Michel. _The History of Sexuality, Vol. 1: An Introduction_. Vintage, 
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 TOPICS
 {{< thclose >}}
 

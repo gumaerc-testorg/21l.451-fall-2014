@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding final paper.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-451-introduction-to-literary-theory-fall-2014/bdf915ae83af7424ee9f245947b6c2e1_MIT21L_451F14_Final_Paper.pdf
+file: /media/courses/21l-451-introduction-to-literary-theory-fall-2014/bdf915ae83af7424ee9f245947b6c2e1_MIT21L_451F14_Final_Paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 21L.451 F14 Final Paper
 uid: bdf915ae-83af-7424-ee9f-245947b6c2e1
