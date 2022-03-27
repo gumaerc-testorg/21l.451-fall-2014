@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7e84895c-4449-b574-f7db-fbd1a5a4d77b
 resourcetype: Document
 title: 21L.451 F14 Response Paper
 uid: 30b54563-7595-851b-ff6f-f324e8fed647

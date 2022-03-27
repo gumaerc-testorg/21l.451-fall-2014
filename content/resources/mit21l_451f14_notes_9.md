@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 880ce463-534d-7eb8-d08f-0ce26c43d72e
 resourcetype: Document
 title: 21L.451 Notes on Zizek's Graphs
 uid: 8c726e1f-0e45-7503-404c-1cff4dfe0775

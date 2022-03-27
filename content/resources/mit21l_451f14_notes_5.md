@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 880ce463-534d-7eb8-d08f-0ce26c43d72e
 resourcetype: Document
 title: 21L.451 Elementary Structures Notes
 uid: c0bec4f1-916c-786a-e1e4-770d5f2c83a6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7e84895c-4449-b574-f7db-fbd1a5a4d77b
 resourcetype: Document
 title: 21L.451 F14 Midterm
 uid: 0604d52f-4c32-ddda-227f-2f42905df9ae

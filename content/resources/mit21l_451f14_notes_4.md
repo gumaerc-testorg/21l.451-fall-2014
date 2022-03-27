@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 880ce463-534d-7eb8-d08f-0ce26c43d72e
 resourcetype: Document
 title: 21L.451 F14 Saussere Structuralism Notes
 uid: fc75f093-be3f-1c68-e818-3b416488dbef
