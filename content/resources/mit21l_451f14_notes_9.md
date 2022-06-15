@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-451-introduction-to-literary-theory-fall-2014/8c726e1f0e457503404c1cff4dfe0775_MIT21L_451F14_Notes_9.pdf
+file: /courses/21l-451-introduction-to-literary-theory-fall-2014/8c726e1f0e457503404c1cff4dfe0775_MIT21L_451F14_Notes_9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
