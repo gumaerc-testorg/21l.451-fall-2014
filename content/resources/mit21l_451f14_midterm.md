@@ -5,6 +5,7 @@ file: /courses/21l-451-introduction-to-literary-theory-fall-2014/0604d52f4c32ddd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21L.451 F14 Midterm
 uid: 0604d52f-4c32-ddda-227f-2f42905df9ae
 ---
 This is a resource file that contains information regarding midterm.
-

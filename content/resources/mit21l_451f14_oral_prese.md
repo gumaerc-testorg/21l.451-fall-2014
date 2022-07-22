@@ -5,6 +5,7 @@ file: /courses/21l-451-introduction-to-literary-theory-fall-2014/98d43f1703b737e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21L.451 F14 Oral Presentations
 uid: 98d43f17-03b7-37e3-c276-19dc2115f0ef
 ---
 This is a resource file that contains information regarding oral presentations.
-

@@ -6,6 +6,7 @@ file: /courses/21l-451-introduction-to-literary-theory-fall-2014/714d1a9ff2b3de1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21L.451 Structure, Sign and Play Notes
 uid: 714d1a9f-f2b3-de10-8b29-5739f3774b9e
 ---
 This is a resource file that contains information regarding structure, sign and play notes.
-
