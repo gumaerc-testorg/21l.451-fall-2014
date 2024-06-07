@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding midterm.
 file: /courses/21l-451-introduction-to-literary-theory-fall-2014/0604d52f4c32ddda227f2f42905df9ae_MIT21L_451F14_Midterm.pdf
+file_size: 417101
 file_type: application/pdf
 learning_resource_types:
 - Assignments
