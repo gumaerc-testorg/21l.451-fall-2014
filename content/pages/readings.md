@@ -43,12 +43,12 @@ Saussure, Ferdinand De. *Course in General Linguistics*. Columbia University Pre
 
 Brémond, Claude. "[Morphology of the French Folktale](http://dx.doi.org/10.1515/semi.1970.2.3.247)." *Semiotica* 2, no. 3 (1970): 247–76.
 
-The Brothers Grimm. "[Rapunzel](http://germanstories.vcu.edu/grimm/rapunzel_e.html)."
+The Brothers Grimm. "Rapunzel."
 
-Greimas, A. J., and F. Rastier. "[The Interaction of Semiotic Constraints](http://www.jstor.org/stable/2929667)." *Yale French Studies*, no. 41 (1968): 86–105.    
+Greimas, A. J., and F. Rastier. "[The Interaction of Semiotic Constraints](http://www.jstor.org/stable/2929667)." *Yale French Studies*, no. 41 (1968): 86–105.     
 Required Reading: pp 86–95. Remainder of article is optional.
 
-{{% resource_link fc75f093-be3f-1c68-e818-3b416488dbef "Notes 4 (PDF)" %}}    
+{{% resource_link "fc75f093-be3f-1c68-e818-3b416488dbef" "Notes 4 (PDF)" %}}     
 Overview of key points of Saussure
 
 Levi-Strauss, Claude. "The Structural Study of Myth." In *Structural Anthropology* *Vol. 2*. University of Chicago Press, 1983. ISBN: 9780226474915.
@@ -65,10 +65,10 @@ Levi-Strauss, Claude. *Elementary Structures of Kinship*. Beacon Press, 1971, pp
 
 ———. "The Writing Lesson." In *Tristes Tropiques*. Modern Library, 1997. ISBN: 9780679602460.
 
-{{% resource_link c0bec4f1-916c-786a-e1e4-770d5f2c83a6 "Notes 5 (PDF)" %}}    
+{{% resource_link "c0bec4f1-916c-786a-e1e4-770d5f2c83a6" "Notes 5 (PDF)" %}}     
 Notes on extract from "Elementary Structures"
 
-{{% resource_link 714d1a9f-f2b3-de10-8b29-5739f3774b9e "Notes 6 (PDF)" %}}    
+{{% resource_link "714d1a9f-f2b3-de10-8b29-5739f3774b9e" "Notes 6 (PDF)" %}}     
 Notes on Structure, Sign and Play
 
 Derrida, Jaques. "Signature, Event, Context." In *Limited Inc*. Northwestern University Press, 1988. ISBN: 9780810107878. \[Preview with [Google Books](http://books.google.com/books?id=-ANhg9zaAtIC&pg=PA1=onepage)\]
@@ -105,7 +105,7 @@ Lacan, Jacques. "[The Seminar on *The Purloined Letter*](http://www.lacan.com/pu
 
 Johnson, Barbara. "[The Frame of Reference: Poe, Lacan, Derrida](http://www.jstor.org/stable/2930445)." *Yale French Studies*, no. 55/56 (1977): 457-505.
 
-{{% resource_link 8c726e1f-0e45-7503-404c-1cff4dfe0775 "Notes 9 (PDF)" %}}    
+{{% resource_link "8c726e1f-0e45-7503-404c-1cff4dfe0775" "Notes 9 (PDF)" %}}     
 Notes on Zizek's graphs
 
 Zizek, Slavoj. Chapter 3 in *The Sublime Object of Ideology*. 2nd ed. Verso, 2009. ISBN: 9781844673001. \[Preview with [Google Books](http://books.google.com/books?id=EujcNVAlcw4C&pg=PA87=onepage)\]
