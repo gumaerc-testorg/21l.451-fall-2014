@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding final paper.
-file: /courses/21l-451-introduction-to-literary-theory-fall-2014/bdf915ae83af7424ee9f245947b6c2e1_MIT21L_451F14_Final_Paper.pdf
+file: /ol-ocw-studio-app/courses/21l-451-introduction-to-literary-theory-fall-2014/bdf915ae83af7424ee9f245947b6c2e1_MIT21L_451F14_Final_Paper.pdf
 file_size: 282132
 file_type: application/pdf
 learning_resource_types:
