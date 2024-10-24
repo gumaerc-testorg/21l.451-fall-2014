@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding response
   paper.
-file: /courses/21l-451-introduction-to-literary-theory-fall-2014/30b545637595851bff6ff324e8fed647_MIT21L_451F14_Response_Pap.pdf
+file: /ol-ocw-studio-app/courses/21l-451-introduction-to-literary-theory-fall-2014/30b545637595851bff6ff324e8fed647_MIT21L_451F14_Response_Pap.pdf
 file_size: 251910
 file_type: application/pdf
 learning_resource_types:
