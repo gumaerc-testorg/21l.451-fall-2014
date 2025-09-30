@@ -31,9 +31,9 @@ Course Requirements
 
 Sophocles. _Oedipus Rex_. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781500376765.
 
-Bronte, Charlotte. _Jane Eyre_. Tribeca Books, 2013. ISBN: 9781936594191. \[Preview with [Google Books](http://books.google.com/books?id=A_wJUKY7HjkC&pg=PAfrontcover)\]
+Bronte, Charlotte. _Jane Eyre_. Tribeca Books, 2013. ISBN: 9781936594191. \[Preview with {{% resource_link "7b68ab0c-6306-492e-a063-88b990383d22" "Google Books" %}}\]
 
-Freud, Sigmund. _The Interpretation of Dreams_. CreateSpace Independent Publishing Platform, 2015. ISBN: 9781506138855. \[Preview with [Google Books](http://books.google.com/books?id=7jPBAwAAQBAJ&pg=PAfrontcover)\]
+Freud, Sigmund. _The Interpretation of Dreams_. CreateSpace Independent Publishing Platform, 2015. ISBN: 9781506138855. \[Preview with {{% resource_link "d3255904-54cf-4f1c-a08d-33987c5be6b0" "Google Books" %}}\]
 
 Foucault, Michel. _The History of Sexuality, Vol. 1: An Introduction_. Vintage, 1990. ISBN: 9780679724698.
 
